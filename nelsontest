@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UpViral Test</title>
+
+  </head>
+
+ 
+  <iframe class="uvembed91940" frameborder="0" src="https://static.upviral.com/loader.html" data-no-lazy="1" ></iframe>
+  <script>
+  window.UpviralConfig = {
+  camp: "88$4G$",
+  widget_style:'iframe',
+  width:"500px"}
+  </script>
+  <script language="javascript" src="https://snippet.upviral.com/upviral.js"></script>
+
+  <h1></h1>
+</html>
